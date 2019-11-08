@@ -1,0 +1,12 @@
+Ramillies&Revenge&1917
+Renown&Renown&1916
+Repulse&Renown&1916
+Resolution&Renown&1916
+Revenge&Revenge&1916
+Royal Oak&Revenge&1916
+Royal Sovereign&Revenge&1916
+Tennessee&Tennessee&1920
+Washington&North Carolina&1941
+Wisconsin&Iowa&1944
+Yamato&Yamato&1941
+South Dakota&North Carolina&1941

@@ -1,0 +1,4 @@
+Renown|bc|Gt.Britain|6|15|32000
+Revenge|bb|Gt.Britain|8|15|29000
+Tennessee|bb|USA|12|14|32000
+Yamato|bb|Japan|9|18|65000

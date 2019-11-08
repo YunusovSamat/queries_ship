@@ -1,0 +1,4 @@
+Bismarck|bb|Germany|8|15|42000
+Iowa|bb|USA|9|16|46000
+Kongo|bc|Japan|8|14|32000
+North Carolina|bb|USA|12|16|37000
