@@ -1,0 +1,1 @@
+put: File /user/samat/task2/input/classes.txt._COPYING_ could only be replicated to 0 nodes instead of minReplication (=1).  There are 0 datanode(s) running and no node(s) are excluded in this operation.
